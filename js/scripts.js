@@ -32,7 +32,11 @@ var runningScore = function () {
   totalScore += tempScore;
   return totalScore;
 }
+<<<<<<< HEAD
 
+=======
+// user interface
+>>>>>>> 8816a08843f015714448e464f1d6f6e4b3893587
 $(document).ready(function() {
  $("button#start").click(function(event){
    $(".player-console").show();
