@@ -7,7 +7,7 @@ This is a project that enables one to play dice online.This project has been mod
 #### Project instructions
 First you just click the start game button and enjoy the game with your patner because the game consists of two people.one just rolls the dice by pressing  the roll button and hold button is used when necessary
 ##### you can find this project on https://github.com/chriskaringeg/PIG-DICE.git
-######licence and copyright information
+###### licence and copyright information
 MIT License
 Copyright (c) 2018 chris Karinge
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -24,4 +24,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARES
